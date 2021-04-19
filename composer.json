@@ -1,0 +1,20 @@
+{
+    "name": "pearlthoughts/yii2-rss",
+    "description": "Yii2 Framework extension to provide functionality for consuming RSS and Atom feeds using zend-feed library.",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [{
+        "name": "Pearlthoughts",
+        "email": "developers@pearlthoughts.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2",
+        "pearlthoughts/zend-feed": "2.3.*@dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "yii\\feed\\": ""
+        }
+    }
+}
