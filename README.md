@@ -9,7 +9,7 @@ Installation
 {
 	"require": 
 	{
-  		"pearlthoughts/yii2-rss": "dev-master"
+  		"pearlthoughts/yii2-rss": "dev-main"
 	}
 }
 ```
