@@ -10,7 +10,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.2",
-        "pearlthoughts/zend-feed": "*"
+        "pearlthoughts/zend-feed": "dev-master"
     },
     "autoload": {
         "psr-0": {
