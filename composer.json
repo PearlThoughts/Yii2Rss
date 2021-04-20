@@ -8,6 +8,7 @@
         "email": "developers@pearlthoughts.com"
     }],
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "php": ">=7.2",
         "pearlthoughts/zend-feed": "dev-master"
