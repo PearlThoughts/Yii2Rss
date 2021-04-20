@@ -11,7 +11,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.2",
-        "pearlthoughts/zend-feed": "dev-master"
+        "pearlthoughts/zend-feed": "*"
     },
     "autoload": {
         "psr-0": {
